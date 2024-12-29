@@ -1,0 +1,5 @@
+// This would be your actual screenshot image file, but since you need to take it yourself:
+
+1. Take a screenshot of your running application
+2. Create a directory: src/assets/
+3. Save the screenshot as "screenshot.png" in that directory
