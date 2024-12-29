@@ -2,7 +2,8 @@
 
 A modern, responsive rich text editor built with TipTap, React, and TypeScript. Features a beautiful gradient design and intuitive user interface.
 
-![TipTap Editor Screenshot](./src/assets/screenshot.png)
+![TipTap Editor Screenshot](./src/assets/Capture.PNG)
+
 
 ## Features
 
